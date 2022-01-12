@@ -15,3 +15,10 @@ PROCESS :
 
 This project is done by :
 
+[Konijeti Sri Vyshnavi](https://github.com/srivyshnavikonijeti)
+
+[Methuku Samhitha](https://github.com/METHUKUSAMHITHA)
+
+[Ankith Suravarapu](https://github.com/Ankith-Suravarapu)
+
+[Maddala H S M Krishna Karthik](https://github.com/karthik1124)
